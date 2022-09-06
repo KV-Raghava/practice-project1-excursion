@@ -1,0 +1,19 @@
+html {
+    background-color: black;
+}
+.title{
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.dlink{
+
+    font-size: 16px;
+    text-align: center;
+}
+a{
+    color: aquamarine;
+}
